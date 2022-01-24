@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <style>
     *{
   user-select: none;
